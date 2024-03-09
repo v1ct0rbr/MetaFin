@@ -44,3 +44,7 @@ Este projeto está licenciado sob a Licença MIT - consulte o arquivo LICENSE pa
 
 
 ## ScreenShots
+
+![App Screenshot](https://github.com/v1ct0rbr/MetaFin/blob/main/assets/app/img_01.png?raw=true)
+
+![App Screenshot](https://github.com/v1ct0rbr/MetaFin/blob/main/assets/app/img_02.png?raw=true)
